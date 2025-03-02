@@ -1,6 +1,6 @@
 # Stock Cointegration Analysis  
 
-This Python script analyzes the cointegration of two selected stocks using historical price data from Yahoo Finance. It applies statistical methods, including linear regression and the Engle-Granger cointegration test, to determine if the chosen stocks share a long-term equilibrium relationship.  
+This Python script analyzes the cointegration of two selected stocks using historical price data from Yahoo Finance. It applies statistical methods, including linear regression and the Engle-Granger cointegration test, to determine if the chosen stocks share a long-term equilibrium relationship. In the future, I will continue working on this code so it can automatically scan indexes find statistically significant cointegration, and perform statistical arbitrage.
 
 ## Features  
 - Retrieves 10 years of monthly stock price data from Yahoo Finance  
